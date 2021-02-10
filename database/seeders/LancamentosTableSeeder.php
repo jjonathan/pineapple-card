@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Domain\Lancamentos\Models\LancamentosModel;
+use App\Domains\Lancamentos\Models\LancamentosModel;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 
